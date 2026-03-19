@@ -285,6 +285,7 @@ Windows(R), Professional edition: Product name = Windows(R), Professional editio
 Windows OS version = 10.0.19045
 Windows OS build = 19045
 ```
+<img width="1219" height="216" alt="изображение" src="https://github.com/user-attachments/assets/c8ba0392-b906-4932-bbaf-d35216e44587" />
 
 ---
 
