@@ -1,0 +1,1 @@
+# Zabbix-Windows-KMS-Activation-Monitoring-WMI-LLD-
