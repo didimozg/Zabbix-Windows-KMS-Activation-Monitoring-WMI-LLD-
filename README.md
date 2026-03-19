@@ -115,18 +115,7 @@ Example output:
 ]
 ```
 
-## 2. Dependent LLD rule
-
-The raw JSON item is used as a **master item** for the discovery rule.
-
-LLD macros are extracted using JSONPath, for example:
-
-- `{#ID}` → `$.ID`
-- `{#NAME}` → `$.Name`
-- `{#STATUS}` → `$.LicenseStatus`
-- `{#GRACE}` → `$.GracePeriodRemaining`
-
-## 3. Dependent item prototypes
+## 2. Dependent item prototypes
 
 The template automatically creates items such as:
 
